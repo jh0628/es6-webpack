@@ -5,15 +5,15 @@
 首先下载源码
 
 ```shell
-git clone https://github.com/cucygh/es6-webpack.git
+git clone https://github.com/jh0628/es6-webpack
 ```
 
 然后安装
 
 ```shell
-npm i
-npm i webpack -g
-npm i webpack-dev-server -g
+npm install
+npm install webpack -g
+npm install webpack-dev-server -g
 ```
 
 ### 运行
